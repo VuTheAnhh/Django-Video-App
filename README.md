@@ -27,9 +27,6 @@ Dự án **django-video-app** là một ứng dụng Django được thiết k�
    Tạo môi trường ảo Python:
    ```bash
    python -m venv venv
-
-   Kích hoạt môi trường ảo:
-   ```bash
    .\venv\Scripts\activate
 
 3. **Cài đặt các gọi phụ thuộc**
