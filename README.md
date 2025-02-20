@@ -35,10 +35,9 @@ Dự án **django-video-app** là một ứng dụng Django được thiết k�
    pip install -r requirements.txt
 
 4. **Áp Dụng Migrations**
+
    ```bash
    python manage.py makemigrations
-   
-   ```bash
    python manage.py migrate
 
 5. **Tạo Superuser**
